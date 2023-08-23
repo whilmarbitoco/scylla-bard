@@ -4,7 +4,7 @@ import bardapi
 
 class AIAssistant:
     def __init__(self):
-        self.token = 'aAjRZ9WUVzElunWxkIpiqSlJ79r1pDoQwb7lRuiHC8lELwDWWSfHWa-SG7-W6ZcFIoYJSw.'
+        self.token = ''
         self.bard = bardapi.core.Bard(self.token)
         self.recognizer = sr.Recognizer()
 
