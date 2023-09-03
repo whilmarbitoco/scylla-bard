@@ -1,0 +1,5 @@
+## Prerequisites
+
+Before you begin, ensure that you have the following prerequisites in place:
+
+- **Python 3.x**: You need to have Python 3.x installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/).
