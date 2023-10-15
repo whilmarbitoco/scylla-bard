@@ -33,7 +33,7 @@ bardapi is an API for natural language processing, specifically for speech synth
 
 ## Project Directory Structure
 
-Here is a suggested project directory structure for your Speech to Text and Text to Speech AI Assistant:
+Here is a project directory structure for  Speech to Text and Text to Speech AI Assistant:
 
 ```bash
 
